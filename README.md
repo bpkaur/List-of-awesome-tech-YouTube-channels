@@ -1,6 +1,6 @@
 ## About
 
-This repository contains a list of Tech YouTube channels for people who prefer learning by watching videos and experienced youtuber for good tech advice. 
+This repository contains a list of tech YouTube channels for people who prefer learning by watching videos and experienced youtuber for good tech advice. 
 
 
 ## Contribute
